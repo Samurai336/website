@@ -53,7 +53,7 @@ const experiences = [
   {
     company: "Emergent Media Center​",
     title: "Game Programmer",
-    date: "Sprint 2009",
+    date: "Spring 2009",
     link: "https://emergentmedia.champlain.edu",
     description: `
     <ol>
